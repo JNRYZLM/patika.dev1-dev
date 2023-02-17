@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>melekaybike</title>
+    <strong><h1>MELEK AYBİKE ARSLAN</h1></strong>
+  
+    <h2>HAKKIMDA</h2>
+    <p>Merhaba ben Melek Aybike ARSLAN 19 yaşındayım Rumeli Üniversitesi bilgisayar programcılığı 1.sınıf öğrencisiyim hobilerim kısaca</p>
+    <ol type="A">
+        <li>Anime izlemek</li>
+        <!-- SEVDİĞİM ANİMELER = Death note - SpyxFamily -->
+        <li>Kedilerle oynamak</li>
+        <!-- SEVDİĞİM KEDİLER = Tüm kediler  -->
+        <li>Bilgisayarla ilgilenmek</li>
+        <!-- SEVDİĞİM BİLGİSAYARLA AKTİVİTEM = Kod yazmak  -->
+    </ol>
+    
+
+</head>
+<body>
+</body>
+</html>
